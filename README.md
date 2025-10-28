@@ -35,3 +35,7 @@ tsur
 vision
 ymedaca
 ztnq
+
+# using the GUI
+
+bind X [showgui "Map Pools"]
