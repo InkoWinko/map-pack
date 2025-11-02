@@ -4,6 +4,7 @@ This Map Pack contains the following maps:
 2tsud
 amgine
 anul
+battleforged
 c3draa
 celerity
 croma6
