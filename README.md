@@ -6,6 +6,7 @@ amgine
 anul
 battleforged
 c3draa
+campus_b3
 celerity
 croma6
 crust1
@@ -30,6 +31,7 @@ nezorf
 noom_dab
 offactf
 origin2
+persistance
 siege
 sigura
 sm1
