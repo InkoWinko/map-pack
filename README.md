@@ -36,7 +36,9 @@ siege
 sigura
 sm1
 sonder
+star
 stolen
+stronghold2v
 thumby
 to
 tsur
