@@ -1,4 +1,4 @@
-# map pack
+# Map pack
 
 This Map Pack contains the following maps:
 2tsud
@@ -18,6 +18,7 @@ etsah
 ext_2
 ezah
 faldod
+fdm8
 gaia
 gula
 haven
@@ -32,6 +33,7 @@ noom_dab
 offactf
 origin2
 persistance
+quro
 siege
 sigura
 sm1
@@ -42,10 +44,11 @@ stronghold2v
 thumby
 to
 tsur
+velocity
 vision
 ymedaca
 ztnq
 
-# using the GUI
+# Using the GUI
 
 bind X [showgui "Map Pools"]
