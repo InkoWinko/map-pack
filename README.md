@@ -51,4 +51,6 @@ ztnq
 
 # Using the GUI
 
-bind X [showgui "Map Pools"]
+- exec maps.cfg (on a new line in options -> autoexec, then click save and exec)
+- bind X [showgui "Map Pools"] (X being any bind you prefer)
+
