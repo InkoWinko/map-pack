@@ -17,7 +17,6 @@ enibrut
 etsah
 ext_2
 ezah
-faldod
 fdm8
 gaia
 gula
@@ -32,12 +31,14 @@ nezorf
 noom_dab
 offactf
 origin2
+paval
 persistance
 quro
 schism
 siege
 sigura
 sm1
+sober
 sonder
 star
 stolen
@@ -47,6 +48,7 @@ to
 tsur
 velocity
 vision
+wemble
 ymedaca
 ztnq
 
